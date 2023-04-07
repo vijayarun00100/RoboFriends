@@ -89,5 +89,10 @@ export const robots = [
     username: 'Bret',
     email: 'Sincere@april.biz'
   },
-
+  {
+    id: 16,
+    name: 'Karthik',
+    username: 'Bret',
+    email: 'Sincere@april.biz'
+  }
 ];
