@@ -24,7 +24,7 @@ class Dad extends React.Component{
         console.log(filterrobots);
         return(
             <div className="tc dev">
-                <h1 style={{fontFamily:'cursive',color:'white'}} className="f1">ROBO FRIENDS</h1>
+                <h1 style={{font-family: 'Brush Script MT', 'cursive',color:'white'}} className="f1">ROBO FRIENDS</h1>
                 <Search searchchange={this.onsearchchange}/>
                 <hr style={{backgroundColor:'red',margin:'20px'}}></hr>
                 <Cardlist robo={filterrobots}/>
