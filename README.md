@@ -2,6 +2,8 @@
 
 ✌🏻Its time to add your friends info virtually with robo faces🤖
 
+### The link is below the image
+
 ![1](https://user-images.githubusercontent.com/64945040/230760099-222bf22f-9d98-40d6-bd8c-e8552e16d91b.png)
 
 
