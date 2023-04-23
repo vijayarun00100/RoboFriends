@@ -100,5 +100,5 @@ export const robots = [
     name: 'Karthik',
     username: 'Bret',
     email: 'Sincere@april.biz'
-  },
+  }
 ];
