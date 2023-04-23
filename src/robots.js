@@ -91,8 +91,14 @@ export const robots = [
   },
   {
     id: 16,
+    name: 'Mohamed Fuad',
+    username: 'dude',
+    email: 'getjobdone.hotmail.com'
+  },
+  {
+    id: 17,
     name: 'Karthik',
     username: 'Bret',
     email: 'Sincere@april.biz'
-  }
+  },
 ];
